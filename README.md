@@ -95,14 +95,8 @@ Directed software development for **Haletale**, a property management platform d
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-talal-zulfiqar&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/talal-zulfiqar-221567255/
 - 🌐 GitHub: https://github.com/dev-talal-zulfiqar
-- 📧 Email: your-email@example.com
+- 📧 Email: tilalzulfiqar125@gmail.com
