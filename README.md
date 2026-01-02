@@ -1,71 +1,103 @@
 # 👋 Hi, I'm Talal Zulfiqar
 
-🚀 Senior Full-Stack Engineer | Ruby on Rails | React.js | Next.js | Node.js | AWS | GCP
-🧠 9+ Years Experience Building Scalable Web Applications & Integrations
+🚀 Senior Full-Stack Engineer | Ruby on Rails · Node.js · Java (Spring Boot) · React · Next.js  
+🧠 9+ Years Experience Building Scalable, Production-Grade Web Platforms
 
 ---
 
 ## 🧩 About Me
 
-I am a **seasoned Full-Stack Engineer** with **9+ years of professional experience** designing, developing, and leading robust web applications and system integrations.
+I am a **Senior Full-Stack Engineer** with **9+ years of experience** designing, developing, and leading complex web applications and integrations at scale.
 
-My core expertise lies in **Ruby and Ruby on Rails**, where I consistently apply **best practices such as DRY and Convention Over Configuration (CoC)** to build maintainable, scalable, and high-performance systems.
+My background spans **Ruby on Rails, Node.js, Java (Spring Boot), and modern JavaScript frameworks such as React.js and Next.js**. I focus on building **scalable, resilient systems**, applying clean architecture principles like **DRY and Convention Over Configuration (CoC)**.
 
-I have strong proficiency in **JavaScript** and modern frontend frameworks like **React.js**, enabling me to deliver clean, responsive, and user-focused interfaces.
+I have extensive experience working within **microservices architectures**, optimizing large-scale systems, and collaborating in Agile environments to safely ship high-impact features.
 
 ---
 
 ## 🛠 Technical Expertise
 
 ### Backend
-- Ruby, Ruby on Rails 
-- RESTful APIs, Authentication & Authorization
-- Background Jobs, Integrations, System Optimization
+- Ruby, Ruby on Rails
+- Node.js, Express.js
+- Java, Spring Boot
+- RESTful APIs, Microservices Architecture
+- Feature Flags, Background Jobs, System Integrations
 
 ### Frontend
 - JavaScript (ES6+)
-- React.js | Next.js, Component-Driven Architecture
-- Responsive UI Development
+- React.js, Next.js
+- Functional Components, Component-Driven Design
+- Material UI, Tailwind CSS, Styled Components
 
-### Databases
+### Databases & Search
 - PostgreSQL, MySQL, Microsoft SQL Server
 - NoSQL Databases
-- Data Modeling & Query Optimization
+- Elasticsearch (Semantic & Contextual Search)
+- Query Optimization & Data Modeling
 
 ### Cloud & DevOps
-- Amazon Web Services (AWS)
-- Deployment, Environment Configuration
-- Performance & Scalability Optimization
+- Amazon Web Services (AWS): EC2, S3, SES, Lambda
+- CI/CD Pipelines
+- Infrastructure Design for Scalability & Resilience
 
 ### Testing & Quality
 - RSpec, Selenium
-- Automated Testing & Test-Driven Development (TDD)
-- Agile & Scrum Methodologies
-
----
-
-## 📌 Engineering Approach
-
-I excel at:
-- Solving complex technical problems
-- Performance Improvement
-- Designing scalable architectures
-- Leading and collaborating in Agile teams
-- Delivering production-ready software with a focus on reliability and performance
-
-I bring a **proactive, collaborative, and ownership-driven mindset** to every project and team I work with.
+- Automated Testing, TDD
+- Agile / Scrum Methodologies
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **Github Discussion**
-- Tech: Ruby on Rails, ERB, Microservices, Kafka, Event Driven Approaches, PostgreSQL, AWS
-- Description: Designed and implemented scalable web features and API integrations
+### 🔹 GitHub Discussions — Senior Full Stack Developer
 
-🔹 **Haletale**
-- Tech: Ruby, React, JavaScript, AWS, Heroku, PostgreSQL
-- Description: 
+Worked as a **Senior Full Stack Developer** on **GitHub Discussions**, a large-scale collaborative platform designed to foster community engagement and knowledge sharing.
+
+**Key Contributions**
+- Delivered major features including **Post as Admin**, **Verified Answers**, **Leaderboard Optimization**, and **Relevant Discussions**
+- Built features within a **microservices architecture**, ensuring safe rollouts using **feature flags**
+- Authored **Architecture Decision Records (ADRs)** to design and document scalable, resilient solutions
+- Collaborated in a fully Agile environment with daily scrums to ship features safely without user disruption
+
+**Technical Highlights**
+- Independently designed and implemented the **Verified Answers** feature end-to-end
+- Integrated event logging by defining schemas in **Go protobufs**, generating files across microservices, and emitting **Hydro events**
+- Enabled analytics pipelines consumed by data visualization teams
+- Implemented **ElasticSearch semantic search using OpenAI** to surface contextually relevant discussions, significantly improving engagement
+- Optimized leaderboard queries on large datasets by refactoring queries, introducing pre-calculations, and improving database access patterns
+- Resolved performance bottlenecks under heavy traffic, significantly improving query responsiveness
+
+---
+
+### 🔹 Haletale — Senior Engineer / Technical Lead
+
+Directed software development for **Haletale**, a property management platform designed to streamline operations for landlords and property managers.
+
+**Leadership & Ownership**
+- Led and mentored a team of **4+ developers**
+- Worked directly with **4 customers** to design and deliver web applications from scratch
+- Owned feature planning, architecture decisions, and delivery timelines
+
+**Platform Capabilities**
+- Tenant and lease management
+- Maintenance tracking
+- Integrated online payment processing
+- Communication and CRM integrations
+
+**Technical Highlights**
+- Built UI using **React functional components**, Material UI, Tailwind, and Styled Components
+- Integrated third-party services including **Twilio**, **Stripe**, **HubSpot**, and **QuickBooks**
+- Designed RESTful APIs with strong data integrity using serializers and active models
+- Architected **CI/CD pipelines on AWS**, automating testing, builds, and deployments
+- Designed a scalable AWS infrastructure using **EC2, S3, SES, and Lambda**
+- Improved application performance by **~20%** through caching strategies, code refactoring, and database query optimization
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-talal-zulfiqar&show_icons=true)
 
 ---
 
